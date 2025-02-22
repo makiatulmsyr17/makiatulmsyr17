@@ -31,14 +31,7 @@ Here are some ideas to get you started:
 📌 **Skills:** Python, Machine Learning, Deep Learning, NLP, SQL, Tableau, Generative AI.  
 
 ### My Experiences 🙌  
-- **AI & Data Science Intern (Startup Campus)** - (Feb'24 - Jun'24)  
-- **Data Science Trainee (RevoU Tech Academy)** - (Aug'23 - Dec'23)  
-- **Data Science in Tourism Training (Bandung Tourism Office)** - (May'24 - Jun'24)  
+- **AI Reserchers Intern (PT Garuda Insani Gigih Teknologi (Garuda Insight))** - (Sept'24 - Des'24)  
 
-![Makiatul's Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=makiatulmusyaropah&layout=compact&langs_count=8&hide_border=true)  
-<br />
-
-### 📕 Blog Posts  
-- [Coming Soon...]  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=makiatulmusyaropah.makiatulmusyaropah)
