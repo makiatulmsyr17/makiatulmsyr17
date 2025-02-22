@@ -14,16 +14,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello everyone! 👋  
+## Hello World, I'm [Makiatul Musyaropah!](https://www.linkedin.com/in/makiatulmusyaropah/)  
 
-I am **Makiatul Musyaropah** ✨  
+<a href="https://www.linkedin.com/in/makiatulmusyaropah/">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin" />
+</a>
+<a href="mailto:makiatulmusyaropah@gmail.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
 
-💻 **AI Engineer | Data Scientist Enthusiast**  
-📊 Transforming data into meaningful insights.  
+<br />
+
+### About Me 🚀  
+🌱 **AI Engineer | Data Scientist Enthusiast**  
+📊 Passionate about transforming data into meaningful insights.  
 📌 **Skills:** Python, Machine Learning, Deep Learning, NLP, SQL, Tableau, Generative AI.  
 
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MakiatulMusyaropah-blue?logo=linkedin)](https://www.linkedin.com/in/makiatulmusyaropah)  
-[![GitHub](https://img.shields.io/badge/GitHub-MakiatulMusyaropah-black?logo=github)](https://github.com/makiatulmusyaropah)  
+### My Experiences 🙌  
+- **AI & Data Science Intern (Startup Campus)** - (Feb'24 - Jun'24)  
+- **Data Science Trainee (RevoU Tech Academy)** - (Aug'23 - Dec'23)  
+- **Data Science in Tourism Training (Bandung Tourism Office)** - (May'24 - Jun'24)  
 
-🚀 **Check out my portfolio on GitHub!**  
+![Makiatul's Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=makiatulmusyaropah&layout=compact&langs_count=8&hide_border=true)  
+<br />
+
+### 📕 Blog Posts  
+- [Coming Soon...]  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=makiatulmusyaropah.makiatulmusyaropah)
