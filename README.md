@@ -13,9 +13,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## Hello World, I'm [Makiatul Musyaropah!](https://www.linkedin.com/in/makiatulmusyaropah/)  
 
+<p align="left">
+<a href="https://github.com/makiatulmsyr17">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=makiatulmsyr17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=makiatulmsyr17&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+### About Me 🚀  
+🌱 **AI Engineer | Data Scientist Enthusiast**  
+📊 Passionate about transforming data into meaningful insights.  
+📌 **Skills:** Python, Machine Learning, Deep Learning, NLP, SQL, Tableau, Generative AI.  
+
+
+### My Experiences 🙌  
+- **AI Reserchers Intern (PT Garuda Insani Gigih Teknologi (Garuda Insight))** - (Sept'24 - Des'24)  
+
+### 📫 Connect with me  
 <a href="https://www.linkedin.com/in/makiatulmusyaropah/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
@@ -25,13 +41,12 @@ Here are some ideas to get you started:
 
 <br />
 
-### About Me 🚀  
-🌱 **AI Engineer | Data Scientist Enthusiast**  
-📊 Passionate about transforming data into meaningful insights.  
-📌 **Skills:** Python, Machine Learning, Deep Learning, NLP, SQL, Tableau, Generative AI.  
-
-### My Experiences 🙌  
-- **AI Reserchers Intern (PT Garuda Insani Gigih Teknologi (Garuda Insight))** - (Sept'24 - Des'24)  
-
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=makiatulmusyaropah.makiatulmusyaropah)
+
+
+
+
+
+
+
+
