@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo semua! 
+# Halo semua! 👋  
 
-Perkenalkan nama saya **Makiatul Musyaropah**.<br>
+Saya **Makiatul Musyaropah** ✨  
 
-Saya seorang **AI Engineer** di.<br>
+💻 **AI Engineer | Data Scientist Enthusiast**  
+📊 Mengolah data menjadi wawasan yang bermakna.  
+📌 **Bidang keahlian:** Python, Machine Learning, Deep Learning, NLP, SQL, Tableau, Gnerative AI.  
+
+📫 **Hubungi saya:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MakiatulMusyaropah-blue?logo=linkedin)](https://www.linkedin.com/in/makiatulmusyaropah)  
+[![GitHub](https://img.shields.io/badge/GitHub-MakiatulMusyaropah-black?logo=github)](https://github.com/makiatulmusyaropah)  
+
+🚀 **Jangan lupa cek portofolio saya di GitHub!**  
