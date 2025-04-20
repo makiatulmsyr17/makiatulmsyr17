@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 
 ### My Experiences 🙌  
+- **Data Analyst Intern ((Ramir Consulting))** - ( Des'25 - Mar'25)  
 - **AI Reserchers Intern (PT Garuda Insani Gigih Teknologi (Garuda Insight))** - (Sept'24 - Des'24)  
 
 ### 📫 Connect with me  
