@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello World, I'm [Makiatul Musyaropah!](https://www.linkedin.com/in/makiatulmusyaropah/)  
+## Hello World, I'm [Kiaa!](https://www.linkedin.com/in/makiatulmusyaropah/)  
 
 <p align="left">
 <a href="https://github.com/makiatulmsyr17">
