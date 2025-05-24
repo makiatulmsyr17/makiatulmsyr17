@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ### About Me 🚀  
-🌱 **AI Engineer | Data Scientist Enthusiast**  
+🌱 **Data & AI Enthusiast**  
 📊 Passionate about transforming data into meaningful insights.  
 📌 **Skills:** Python, Machine Learning, Deep Learning, NLP, SQL, Tableau, Generative AI.  
 
