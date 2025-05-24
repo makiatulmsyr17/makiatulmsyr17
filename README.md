@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 
 ### My Experiences 🙌  
-- **Data Analyst Intern ((Ramir Consulting))** - ( Des'25 - Mar'25)  
+- **Data Analyst & Data Integrator ((PT Sahabat Peternak Indonesia (Titip Ternak) X Ramir Consulting))** - ( May'25 - Present)  
+- **Data Analyst Intern ((Ramir Consulting))** - ( Des'25 - Apr'25)  
 - **AI Reserchers Intern (PT Garuda Insani Gigih Teknologi (Garuda Insight))** - (Sept'24 - Des'24)  
 
 ### 📫 Connect with me  
