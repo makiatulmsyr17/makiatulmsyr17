@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ### About Me 🚀  
 🌱 **Data & AI Enthusiast**  
 📊 Passionate about transforming data into meaningful insights.  
-📌 **Skills:** Python, Machine Learning, Deep Learning, NLP, SQL, Tableau, Generative AI.  
 
 
 ### My Experiences 🙌  
