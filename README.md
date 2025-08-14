@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 
 ### My Experiences 🙌  
+- **Software Engineer - AI/ML (Uptner)** - ( Aug'25 - Present)
 - **Data Analyst & Data Integrator ((PT Sahabat Peternak Indonesia (Titip Ternak) X Ramir Consulting))** - ( May'25 - Present)
 - **Mentor Asistant Intern ((Mentorin Indonesia))** - ( March'25 - may'25)  
 - **Data Analyst Intern ((Ramir Consulting))** - ( Des'24 - Apr'25)  
